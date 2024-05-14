@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fxjXetaIkaLULxYtBWsW2oT5xxb1OLVNH4C6MThjwwCpYpVKodr6ubOmOV2rQq2JnSo8mUJw/nCvmmHTNCGd+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaysc\\source\\repos\\M323_schnyder\\01_Einführung\\01_Einführung\\01_Einführung\\01_Einführung.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaysc\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
