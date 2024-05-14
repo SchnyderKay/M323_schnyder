@@ -114,9 +114,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaysc\\source\\repos\\M323_schnyder\\01_Einführung\\01_Einführung\\01_Einführung\\01_Einführung.fsproj",
-      "projectName": "01_Einführung",
-      "projectPath": "C:\\Users\\kaysc\\source\\repos\\M323_schnyder\\01_Einführung\\01_Einführung\\01_Einführung\\01_Einführung.fsproj",
+      "projectUniqueName": "C:\\Users\\kaysc\\source\\repos\\M323_schnyder\\01_Einführung\\01_Einführung\\01_Einführung\\Aufgabe1.fsproj",
+      "projectName": "Aufgabe1",
+      "projectPath": "C:\\Users\\kaysc\\source\\repos\\M323_schnyder\\01_Einführung\\01_Einführung\\01_Einführung\\Aufgabe1.fsproj",
       "packagesPath": "C:\\Users\\kaysc\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\kaysc\\source\\repos\\M323_schnyder\\01_Einführung\\01_Einführung\\01_Einführung\\obj\\",
       "projectStyle": "PackageReference",

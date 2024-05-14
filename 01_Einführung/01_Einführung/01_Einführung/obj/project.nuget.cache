@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fxjXetaIkaLULxYtBWsW2oT5xxb1OLVNH4C6MThjwwCpYpVKodr6ubOmOV2rQq2JnSo8mUJw/nCvmmHTNCGd+w==",
+  "dgSpecHash": "F2vCAr4zJTVtjD0iWSU6PgJF/7MDqf3XNaXgBONoq77j1RMkRVSptT9A0KtBB9Ysi4Y7+HQE/py0uSwB5InfFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kaysc\\source\\repos\\M323_schnyder\\01_Einführung\\01_Einführung\\01_Einführung\\01_Einführung.fsproj",
+  "projectFilePath": "C:\\Users\\kaysc\\source\\repos\\M323_schnyder\\01_Einführung\\01_Einführung\\01_Einführung\\Aufgabe1.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\kaysc\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
   ],
