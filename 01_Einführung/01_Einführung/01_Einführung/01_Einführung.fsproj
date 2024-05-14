@@ -7,7 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="Program.fs" />
+    <None Include="Aufgabe2_Java.java" />
+    <Compile Include="Aufgabe2.fs" />
+    <Compile Include="Aufgabe1.fs" />
   </ItemGroup>
+
+  <ItemGroup />
 
 </Project>
