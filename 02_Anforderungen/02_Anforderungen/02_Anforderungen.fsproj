@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="Program.fs" />
+    <Compile Include="CarRace.fs" />
+    <Compile Include="Destination.fs" />
   </ItemGroup>
 </Project>
