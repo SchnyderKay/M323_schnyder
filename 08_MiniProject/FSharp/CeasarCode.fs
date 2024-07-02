@@ -13,15 +13,8 @@ let caesarEncode (x: char) =
     else
         x
 
-let isValidChar (x: char) =
-    'a' <= x && x <= 'z'
-    || 'A' <= x && x <= 'Z'
-    || '0' <= x && x <= '9'
-
-let caesarEncodeString (s: string):string =
+let caesarEncodeString (s: string): string =
     s.ToCharArray()
-    |> Array.filter isValidChar
     |> Array.map caesarEncode
     |> String
-
 

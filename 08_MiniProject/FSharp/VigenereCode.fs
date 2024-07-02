@@ -23,6 +23,3 @@ let vigenereEncode (plaintext: string) (key: string) =
     |> Seq.toArray
     |> String
 
-
-
-

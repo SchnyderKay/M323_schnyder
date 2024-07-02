@@ -38,19 +38,22 @@ let morseCode =
         '8', "---.."
         '9', "----."
         '0', "-----"
+        ' ', " "        // Add space handling
+        '\n', "  "      // Add line break handling (can be adjusted as needed)
     ]
 
 let isValidChar (x: char) =
-    'a' <= x && x <= 'z'
-    || 'A' <= x && x <= 'Z'
-    || '0' <= x && x <= '9'
+    ('a' <= x && x <= 'z')
+    || ('A' <= x && x <= 'Z')
+    || ('0' <= x && x <= '9')
+    || (x = ' ')
+    || (x = '\n')
 
 let morseEncode (x: char) =
     if morseCode.ContainsKey(x) then morseCode.[x] else ""
 
 let morseCodeString (s: string) =
-    s.ToCharArray()
+    s.ToLower().ToCharArray()
     |> Array.filter isValidChar
     |> Array.map morseEncode
-    |> Array.filter (fun x -> x <> "")
     |> String.concat " "
